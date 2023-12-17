@@ -3,13 +3,14 @@
 ### Readme
 # 1~6개
 
--
----
+1. -
+1. ---
 ----
 
 **
-***
-****
+1.***
+ 1. ****
 
-Codes for Calculator Project
+
+2.Codes for Calculator Project
 #Test this
