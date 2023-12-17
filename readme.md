@@ -13,5 +13,5 @@
  1. ****
 
 
-+ 2.Codes for Calculator Project
++ 2. Codes for Calculator Project
 + #Test this
